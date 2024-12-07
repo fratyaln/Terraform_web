@@ -1,0 +1,4 @@
+variable "bucketName" {
+    default = "mybucketforwebappp"
+  
+}
